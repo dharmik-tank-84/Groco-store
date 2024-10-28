@@ -289,7 +289,7 @@ section {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url("/Image/banner-bg.jpg");
+  background: url(/Image/banner-bg.jpg);
   background-repeat: no-repeat;
   background-position: bottom;
   background-size: cover;
